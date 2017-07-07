@@ -1,0 +1,1 @@
+Sample grails application with SAML and CAS integration
